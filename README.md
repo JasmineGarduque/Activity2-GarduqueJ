@@ -1,5 +1,7 @@
 # Activity2-GarduqueJ
 
+not yet finished 
+
 ```
 ![](Capture1.JPG)
 
