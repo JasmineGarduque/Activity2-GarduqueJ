@@ -1,9 +1,9 @@
 # Activity2-GarduqueJ
-![](Capture1.jpg)
+![](Capture1.JPG)
 ```
-![](Capture2.jpg)
+![](Capture2.JPG)
 ```
-![](Capture3.jpg)
+![](Capture3.JPG)
 ```
-![](Capture4.jpg)
+![](Capture4.JPG)
 ```
